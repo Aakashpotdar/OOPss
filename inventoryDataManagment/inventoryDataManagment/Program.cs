@@ -7,7 +7,7 @@ namespace inventoryDataManagment
         static void Main(string[] args)
         {
             string Path = "C:/Users/AKASH/json/Inventory.json";
-            Console.WriteLine("wlcom to the inventory data management!!");
+            Console.WriteLine("welcom to the inventory data management!!");
 
             ReadInventoryData obj = new ReadInventoryData();
             InventoryManagmentModel data = obj.Read(Path);
