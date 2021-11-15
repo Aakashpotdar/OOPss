@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIa1OR3Q318qJjBmhIZp5EGD/B/dElcfaN930HozjbjZ9i1+etOchudne2cCEynb+eBYzQyuVZhgcAeV9d2YDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AKASH\\source\\repos\\OOPs\\inventoryDataManagment\\inventoryDataManagment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AKASH\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
