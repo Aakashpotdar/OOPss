@@ -1,0 +1,16 @@
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Stockes.exe
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Stockes.deps.json
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Stockes.runtimeconfig.json
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Stockes.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Stockes.dll
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Stockes.pdb
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\GeoJSON.Net.dll
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.dll
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.pdb
+C:\Users\AKASH\source\repos\OOPs\Stockes\Stockes\obj\Debug\netcoreapp3.1\Stockes.genruntimeconfig.cache
